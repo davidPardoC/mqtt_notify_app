@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911765230616",
+    "project_id": "mqtt-notify-45edd",
+    "storage_bucket": "mqtt-notify-45edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911765230616:android:3e6549ff8972d28c12df6d",
+        "android_client_info": {
+          "package_name": "com.davidpardo.mqtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911765230616-ncmhf98e991o6qsgpk4fp7802l2aaang.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47Rve7-3fReut8X3q56_PtKTt4Vigb58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911765230616-ncmhf98e991o6qsgpk4fp7802l2aaang.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
